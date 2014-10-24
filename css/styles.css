@@ -1,0 +1,47 @@
+/**{
+	border:  1px solid red !important;
+}*/
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	color:#660066;
+	font-weight: 300;
+}
+.text-muted{
+	color: #333333;}
+.text-thin{
+	font-weight: 100;
+	color: #747784;
+}
+.row{
+	margin:0px;
+	width:100%;
+}
+.title-super{
+	font-size: 60px;
+}
+.title-super2{
+	color:black;
+    
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+.display-center{
+	display: flex;
+}
+.text-link{
+	color:#000000;
+}
+.part2{
+	background-color: 
+	#c0c0c0;
+	border-top: 5px;
+}
+hr{
+	height: 2px;
+	background-color: #ccc;
+}
+
+
