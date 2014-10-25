@@ -43,5 +43,15 @@ hr{
 	height: 2px;
 	background-color: #ccc;
 }
-
+.main-image{
+	height:440px;
+	width: 1200px;
+	max-height: 100%;
+	
+}
+.displayed{
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
 
